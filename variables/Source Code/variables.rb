@@ -1,4 +1,4 @@
-#Strin
+#String
 var1 = "This is a String"
 #Integer
 var2 = 1
