@@ -6,6 +6,7 @@
     * While
     * For
     * Until
+    * Or etc
 
 ###### The script must be cyclic, that means the program keeps cycling until the user inputs to stop it
 
